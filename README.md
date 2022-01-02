@@ -19,13 +19,13 @@ For example, it is desired to organize different campaigns for new customers and
 
 # Dataset Attribute / Variable Information
 
-Invoice : There is a unique number for each invoice. If the invoice number starts with the letter C it stands for canceled transactions
-StockCode: There is a unique number for each product.
-Description: Product name
-Quantity: Indicates how many products were sold.
-InvoiceDate: Invoice date
-Price: Product unit price (Pound)
-Customer ID: Unique customer number
-Country: Name of country where customer lives
+*Invoice : There is a unique number for each invoice. If the invoice number starts with the letter C it stands for canceled transactions
+*StockCode: There is a unique number for each product.
+*Description: Product name
+*Quantity: Indicates how many products were sold.
+*InvoiceDate: Invoice date
+*Price: Product unit price (Pound)
+*Customer ID: Unique customer number
+*Country: Name of country where customer lives
 
-* You can access the dataset from the link  =>  https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+ You can access the dataset from the link  =>  https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
